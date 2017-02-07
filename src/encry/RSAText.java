@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 import java.math.BigInteger;
 import java.util.Random;
 /**
- *
+ *@authour Maneesh
  */
 public class RSAText {
     private int m_iBitSize;
